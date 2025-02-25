@@ -524,6 +524,10 @@ SharkGame.HomeMessages = {
         {
             message:
                 "The jagged seafloor looks ancient, yet pristine.<br>Sponges thrive in great numbers on the rocks.",
+       
+            name: "stony-default",
+            message: "The jagged seafloor looks ancient, yet pristine. Sponges thrive in great numbers on the rocks.",
+        
         },
         */
     },
